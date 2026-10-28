@@ -1,0 +1,17 @@
+{
+  "name": "music-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp Music Bot with pairing page and automated features",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.0",
+    "express": "^4.19.2",
+    "pino": "^9.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
